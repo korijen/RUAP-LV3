@@ -23,7 +23,7 @@
  font-size: 2em;
  }
  h2 {
- font-size: 1.75em;
+ font-size: 1.50em;
 }
  h3 {
  font-size: 1.2em;
